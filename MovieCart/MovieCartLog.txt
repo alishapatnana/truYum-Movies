@@ -1,0 +1,183 @@
+﻿
+2020-12-04 11:58:20,036 Application started. Press Ctrl+C to shut down.
+2020-12-04 11:58:20,103 Hosting environment: Development
+2020-12-04 11:58:20,129 Content root path: D:\TruYum\MovieCart
+2020-12-04 11:58:32,810 Http get request initiated for all cart Items
+2020-12-04 11:58:33,025 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-06 14:57:49,914 Application started. Press Ctrl+C to shut down.
+2020-12-06 14:57:49,924 Hosting environment: Development
+2020-12-06 14:57:49,926 Content root path: D:\TruYum\MovieCart
+2020-12-07 09:34:45,375 Application started. Press Ctrl+C to shut down.
+2020-12-07 09:34:45,386 Hosting environment: Development
+2020-12-07 09:34:45,390 Content root path: D:\TruYum\MovieCart
+2020-12-07 09:38:20,824 Application started. Press Ctrl+C to shut down.
+2020-12-07 09:38:20,834 Hosting environment: Development
+2020-12-07 09:38:20,837 Content root path: D:\TruYum\MovieCart
+2020-12-07 09:40:27,145 Application started. Press Ctrl+C to shut down.
+2020-12-07 09:40:27,155 Hosting environment: Development
+2020-12-07 09:40:27,159 Content root path: D:\TruYum\MovieCart
+2020-12-07 09:57:21,692 Application started. Press Ctrl+C to shut down.
+2020-12-07 09:57:21,701 Hosting environment: Development
+2020-12-07 09:57:21,707 Content root path: D:\TruYum\MovieCart
+2020-12-07 09:59:06,678 Application started. Press Ctrl+C to shut down.
+2020-12-07 09:59:06,688 Hosting environment: Development
+2020-12-07 09:59:06,690 Content root path: D:\TruYum\MovieCart
+2020-12-07 10:23:30,497 Application started. Press Ctrl+C to shut down.
+2020-12-07 10:23:30,509 Hosting environment: Development
+2020-12-07 10:23:30,511 Content root path: D:\TruYum\MovieCart
+2020-12-07 10:28:55,716 Application started. Press Ctrl+C to shut down.
+2020-12-07 10:28:55,725 Hosting environment: Development
+2020-12-07 10:28:55,726 Content root path: D:\TruYum\MovieCart
+2020-12-07 10:29:18,981 Http get request initiated for all cart Items
+2020-12-07 10:29:19,038 Http get Request Failed Due to The given key '1001' was not present in the dictionary.
+2020-12-07 10:29:45,338 Http post Request Initiated for the user Id 1
+2020-12-07 10:29:45,338 Obtained Valid Model
+2020-12-07 10:52:27,659 Application started. Press Ctrl+C to shut down.
+2020-12-07 10:52:27,677 Hosting environment: Development
+2020-12-07 10:52:27,683 Content root path: D:\TruYum\MovieCart
+2020-12-07 11:28:58,838 Application started. Press Ctrl+C to shut down.
+2020-12-07 11:28:58,849 Hosting environment: Development
+2020-12-07 11:28:58,852 Content root path: D:\TruYum\MovieCart
+2020-12-07 11:30:37,509 Application started. Press Ctrl+C to shut down.
+2020-12-07 11:30:37,521 Hosting environment: Development
+2020-12-07 11:30:37,523 Content root path: D:\TruYum\MovieCart
+2020-12-07 12:04:48,889 Application started. Press Ctrl+C to shut down.
+2020-12-07 12:04:48,897 Hosting environment: Development
+2020-12-07 12:04:48,899 Content root path: D:\TruYum\MovieCart
+2020-12-07 12:19:43,937 Application started. Press Ctrl+C to shut down.
+2020-12-07 12:19:43,954 Hosting environment: Development
+2020-12-07 12:19:43,956 Content root path: D:\TruYum\MovieCart
+2020-12-07 13:02:35,303 Application started. Press Ctrl+C to shut down.
+2020-12-07 13:02:35,316 Hosting environment: Development
+2020-12-07 13:02:35,321 Content root path: D:\TruYum\MovieCart
+2020-12-07 13:06:10,033 Application started. Press Ctrl+C to shut down.
+2020-12-07 13:06:10,046 Hosting environment: Development
+2020-12-07 13:06:10,048 Content root path: D:\TruYum\MovieCart
+2020-12-07 13:06:41,483 Http post Request Initiated for the user Id 1
+2020-12-07 13:06:41,483 Obtained Valid Model
+2020-12-07 14:14:57,665 Application started. Press Ctrl+C to shut down.
+2020-12-07 14:14:57,691 Hosting environment: Development
+2020-12-07 14:14:57,696 Content root path: D:\TruYum\MovieCart
+2020-12-07 14:31:01,772 Application started. Press Ctrl+C to shut down.
+2020-12-07 14:31:01,788 Hosting environment: Development
+2020-12-07 14:31:01,791 Content root path: D:\TruYum\MovieCart
+2020-12-07 15:10:39,375 Application started. Press Ctrl+C to shut down.
+2020-12-07 15:10:39,387 Hosting environment: Development
+2020-12-07 15:10:39,389 Content root path: D:\TruYum\MovieCart
+2020-12-07 17:11:00,879 Application started. Press Ctrl+C to shut down.
+2020-12-07 17:11:00,893 Hosting environment: Development
+2020-12-07 17:11:00,896 Content root path: D:\TruYum\MovieCart
+2020-12-07 17:43:54,739 Application started. Press Ctrl+C to shut down.
+2020-12-07 17:43:54,756 Hosting environment: Development
+2020-12-07 17:43:54,759 Content root path: D:\TruYum\MovieCart
+2020-12-07 17:44:08,733 Http post Request Initiated for the user Id 2
+2020-12-07 17:44:08,733 Obtained Valid Model
+2020-12-07 17:46:48,144 Http post Request Initiated for the user Id 1
+2020-12-07 17:46:48,144 Obtained Valid Model
+2020-12-07 17:49:43,269 Http post Request Initiated for the user Id 1
+2020-12-07 17:49:43,269 Obtained Valid Model
+2020-12-07 17:50:27,724 Http post Request Initiated for the user Id 1
+2020-12-07 17:50:27,725 Obtained Valid Model
+2020-12-07 17:52:12,737 Http post Request Initiated for the user Id 1
+2020-12-07 17:52:12,737 Obtained Valid Model
+2020-12-07 17:53:05,026 Http post Request Initiated for the user Id 1
+2020-12-07 17:53:05,026 Obtained Valid Model
+2020-12-07 17:54:24,781 Http post Request Initiated for the user Id 1
+2020-12-07 17:54:24,781 Obtained Valid Model
+2020-12-07 17:54:28,057 Http get request initiated for all cart Items
+2020-12-07 17:54:28,057 All the MenuItems were displayed
+2020-12-07 17:54:31,500 Http Delete Request Initiated for the user Id 1
+2020-12-07 17:54:31,514 Http get request initiated for all cart Items
+2020-12-07 17:54:31,514 All the MenuItems were displayed
+2020-12-07 17:54:32,385 Http Delete Request Initiated for the user Id 1
+2020-12-07 17:54:32,400 Http get request initiated for all cart Items
+2020-12-07 17:54:32,400 All the MenuItems were displayed
+2020-12-07 17:54:33,175 Http Delete Request Initiated for the user Id 1
+2020-12-07 17:54:33,200 Http get request initiated for all cart Items
+2020-12-07 17:54:33,200 All the MenuItems were displayed
+2020-12-07 17:54:33,972 Http Delete Request Initiated for the user Id 1
+2020-12-07 17:54:33,987 Http get request initiated for all cart Items
+2020-12-07 17:54:33,987 All the MenuItems were displayed
+2020-12-07 17:54:35,051 Http Delete Request Initiated for the user Id 1
+2020-12-07 17:54:35,062 Http get request initiated for all cart Items
+2020-12-07 17:54:35,062 All the MenuItems were displayed
+2020-12-07 19:34:37,615 Application started. Press Ctrl+C to shut down.
+2020-12-07 19:34:37,626 Hosting environment: Development
+2020-12-07 19:34:37,628 Content root path: D:\TruYum\MovieCart
+2020-12-07 19:38:36,629 Http post Request Initiated for the user Id 2
+2020-12-07 19:38:36,629 Obtained Valid Model
+2020-12-07 19:38:37,822 Http post Request Initiated for the user Id 2
+2020-12-07 19:38:37,822 Obtained Valid Model
+2020-12-07 19:38:38,576 Http post Request Initiated for the user Id 2
+2020-12-07 19:38:38,576 Obtained Valid Model
+2020-12-07 19:38:39,773 Http get request initiated for all cart Items
+2020-12-07 19:38:39,773 All the MenuItems were displayed
+2020-12-07 19:38:45,811 Http Delete Request Initiated for the user Id 2
+2020-12-07 19:38:45,826 Http get request initiated for all cart Items
+2020-12-07 19:38:45,826 All the MenuItems were displayed
+2020-12-07 19:38:46,695 Http Delete Request Initiated for the user Id 2
+2020-12-07 19:38:46,709 Http get request initiated for all cart Items
+2020-12-07 19:38:46,709 All the MenuItems were displayed
+2020-12-07 19:38:47,440 Http Delete Request Initiated for the user Id 2
+2020-12-07 19:38:47,459 Http get request initiated for all cart Items
+2020-12-07 19:38:47,459 All the MenuItems were displayed
+2020-12-07 19:39:09,775 Http get request initiated for all cart Items
+2020-12-07 19:39:09,873 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+2020-12-07 19:39:22,707 Http post Request Initiated for the user Id 1
+2020-12-07 19:39:22,707 Obtained Valid Model
+2020-12-07 19:39:24,776 Http get request initiated for all cart Items
+2020-12-07 19:39:24,776 All the MenuItems were displayed
+2020-12-07 19:41:23,683 Http post Request Initiated for the user Id 1
+2020-12-07 19:41:23,683 Obtained Valid Model
+2020-12-07 19:41:48,986 Http post Request Initiated for the user Id 1
+2020-12-07 19:41:48,986 Obtained Valid Model
+2020-12-07 19:41:50,179 Http get request initiated for all cart Items
+2020-12-07 19:41:50,180 All the MenuItems were displayed
+2020-12-07 19:41:54,558 Http Delete Request Initiated for the user Id 1
+2020-12-07 19:41:54,571 Http get request initiated for all cart Items
+2020-12-07 19:41:54,572 All the MenuItems were displayed
+2020-12-07 19:41:59,460 Http get request initiated for all cart Items
+2020-12-07 19:41:59,460 All the MenuItems were displayed
+2020-12-07 19:42:35,448 Http get request initiated for all cart Items
+2020-12-07 19:42:35,448 All the MenuItems were displayed
+2020-12-07 19:43:05,558 Http get request initiated for all cart Items
+2020-12-07 19:43:05,558 All the MenuItems were displayed
+2020-12-07 19:43:08,429 Http Delete Request Initiated for the user Id 1
+2020-12-07 19:43:08,459 Http get request initiated for all cart Items
+2020-12-07 19:43:08,459 All the MenuItems were displayed
+2020-12-07 19:43:10,594 Http Delete Request Initiated for the user Id 1
+2020-12-07 19:43:10,605 Http get request initiated for all cart Items
+2020-12-07 19:43:10,606 All the MenuItems were displayed
+2020-12-07 19:43:12,761 Http get request initiated for all cart Items
+2020-12-07 19:43:12,761 All the MenuItems were displayed
+2020-12-07 19:43:30,183 Http get request initiated for all cart Items
+2020-12-07 19:43:30,183 All the MenuItems were displayed
+2020-12-07 19:45:22,671 Http post Request Initiated for the user Id 1
+2020-12-07 19:45:22,671 Obtained Valid Model
+2020-12-07 19:45:23,933 Http post Request Initiated for the user Id 1
+2020-12-07 19:45:23,933 Obtained Valid Model
+2020-12-07 19:45:29,667 Http get request initiated for all cart Items
+2020-12-07 19:45:29,667 All the MenuItems were displayed
+2020-12-07 19:45:33,990 Http Delete Request Initiated for the user Id 1
+2020-12-07 19:45:34,002 Http get request initiated for all cart Items
+2020-12-07 19:45:34,002 All the MenuItems were displayed
+2020-12-07 19:45:46,595 Http get request initiated for all cart Items
+2020-12-07 19:45:46,595 All the MenuItems were displayed
+2020-12-07 19:48:11,797 Http get request initiated for all cart Items
+2020-12-07 19:48:11,797 All the MenuItems were displayed
+2020-12-07 19:48:13,496 Http Delete Request Initiated for the user Id 1
+2020-12-07 19:48:13,512 Http get request initiated for all cart Items
+2020-12-07 19:48:13,512 All the MenuItems were displayed
+2020-12-07 19:48:21,491 Http post Request Initiated for the user Id 1
+2020-12-07 19:48:21,491 Obtained Valid Model
+2020-12-07 19:48:21,890 Http post Request Initiated for the user Id 1
+2020-12-07 19:48:21,890 Obtained Valid Model
+2020-12-07 19:48:22,520 Http post Request Initiated for the user Id 1
+2020-12-07 19:48:22,520 Obtained Valid Model
+2020-12-07 19:48:23,137 Http post Request Initiated for the user Id 1
+2020-12-07 19:48:23,137 Obtained Valid Model
+2020-12-07 19:48:24,674 Http get request initiated for all cart Items
+2020-12-07 19:48:24,674 All the MenuItems were displayed
+2020-12-07 19:48:27,292 Http Delete Request Initiated for the user Id 1
+2020-12-07 19:48:27,303 Http get request initiated for all cart Items
+2020-12-07 19:48:27,303 All the MenuItems were displayed

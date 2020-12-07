@@ -1,0 +1,243 @@
+﻿2020-12-04 11:43:48,400 Application started. Press Ctrl+C to shut down.
+2020-12-04 11:43:48,432 Hosting environment: Development
+2020-12-04 11:43:48,439 Content root path: C:\Users\alish\source\repos\AuthServices
+2020-12-04 11:44:16,409 get request initiated
+2020-12-04 11:45:07,906 get request initiated
+2020-12-04 11:45:47,361 Authentication initiated
+2020-12-04 11:45:47,362 User Not Found
+2020-12-04 11:46:09,792 Authentication initiated
+2020-12-04 11:46:11,364 Json web token generated
+2020-12-04 11:46:52,236 get request initiated
+2020-12-04 11:47:07,278 get request initiated
+2020-12-04 12:01:16,938 Application started. Press Ctrl+C to shut down.
+2020-12-04 12:01:16,983 Hosting environment: Development
+2020-12-04 12:01:16,998 Content root path: D:\TruYum\AuthServices
+2020-12-04 16:23:13,076 Application started. Press Ctrl+C to shut down.
+2020-12-04 16:23:13,086 Hosting environment: Development
+2020-12-04 16:23:13,088 Content root path: D:\TruYum\AuthServices
+2020-12-04 16:32:26,787 Application started. Press Ctrl+C to shut down.
+2020-12-04 16:32:26,797 Hosting environment: Development
+2020-12-04 16:32:26,798 Content root path: D:\TruYum\AuthServices
+2020-12-04 16:35:07,007 Authentication initiated
+2020-12-04 16:35:07,508 Json web token generated
+2020-12-04 16:38:33,323 Authentication initiated
+2020-12-04 16:38:33,324 Json web token generated
+2020-12-04 16:39:48,074 Authentication initiated
+2020-12-04 16:39:48,074 User Not Found
+2020-12-04 16:39:53,437 Authentication initiated
+2020-12-04 16:39:53,437 Json web token generated
+2020-12-04 16:58:25,043 Application started. Press Ctrl+C to shut down.
+2020-12-04 16:58:25,054 Hosting environment: Development
+2020-12-04 16:58:25,056 Content root path: D:\TruYum\AuthServices
+2020-12-04 16:58:50,876 Authentication initiated
+2020-12-04 16:58:51,248 Json web token generated
+2020-12-04 17:01:23,738 Authentication initiated
+2020-12-04 17:01:23,739 Json web token generated
+2020-12-05 12:04:39,349 Application started. Press Ctrl+C to shut down.
+2020-12-05 12:04:39,359 Hosting environment: Development
+2020-12-05 12:04:39,362 Content root path: D:\TruYum\AuthServices
+2020-12-05 12:05:17,880 Authentication initiated
+2020-12-05 12:05:18,368 Json web token generated
+2020-12-07 09:34:19,881 Application started. Press Ctrl+C to shut down.
+2020-12-07 09:34:19,894 Hosting environment: Development
+2020-12-07 09:34:19,897 Content root path: D:\TruYum\AuthServices
+2020-12-07 09:35:11,594 Authentication initiated
+2020-12-07 09:35:12,108 Json web token generated
+2020-12-07 09:38:40,246 Authentication initiated
+2020-12-07 09:38:40,247 Json web token generated
+2020-12-07 09:41:56,077 Authentication initiated
+2020-12-07 09:41:56,078 Json web token generated
+2020-12-07 09:42:32,405 Authentication initiated
+2020-12-07 09:42:32,405 Json web token generated
+2020-12-07 09:43:21,604 Authentication initiated
+2020-12-07 09:43:21,605 Json web token generated
+2020-12-07 09:59:00,602 Application started. Press Ctrl+C to shut down.
+2020-12-07 09:59:00,611 Hosting environment: Development
+2020-12-07 09:59:00,613 Content root path: D:\TruYum\AuthServices
+2020-12-07 09:59:34,323 Authentication initiated
+2020-12-07 09:59:34,525 Json web token generated
+2020-12-07 10:01:56,915 Authentication initiated
+2020-12-07 10:01:56,915 Json web token generated
+2020-12-07 10:17:20,277 Authentication initiated
+2020-12-07 10:17:20,277 Json web token generated
+2020-12-07 10:18:36,460 Authentication initiated
+2020-12-07 10:18:36,461 Json web token generated
+2020-12-07 10:26:16,201 Authentication initiated
+2020-12-07 10:26:16,201 Json web token generated
+2020-12-07 10:27:50,706 Authentication initiated
+2020-12-07 10:27:50,707 Json web token generated
+2020-12-07 10:51:38,452 Application started. Press Ctrl+C to shut down.
+2020-12-07 10:51:38,463 Hosting environment: Development
+2020-12-07 10:51:38,465 Content root path: D:\TruYum\AuthServices
+2020-12-07 10:52:52,804 Authentication initiated
+2020-12-07 10:52:53,186 Json web token generated
+2020-12-07 11:10:41,540 Application started. Press Ctrl+C to shut down.
+2020-12-07 11:10:41,550 Hosting environment: Development
+2020-12-07 11:10:41,553 Content root path: D:\TruYum\AuthServices
+2020-12-07 11:11:33,487 Authentication initiated
+2020-12-07 11:11:33,703 Json web token generated
+2020-12-07 11:30:18,453 Application started. Press Ctrl+C to shut down.
+2020-12-07 11:30:18,467 Hosting environment: Development
+2020-12-07 11:30:18,469 Content root path: D:\TruYum\AuthServices
+2020-12-07 11:31:00,813 Authentication initiated
+2020-12-07 11:31:01,192 Json web token generated
+2020-12-07 11:32:29,224 Authentication initiated
+2020-12-07 11:32:29,225 Json web token generated
+2020-12-07 11:33:20,697 Authentication initiated
+2020-12-07 11:33:20,698 Json web token generated
+2020-12-07 12:20:04,699 Authentication initiated
+2020-12-07 12:20:04,700 Json web token generated
+2020-12-07 12:22:09,786 Authentication initiated
+2020-12-07 12:22:09,787 Json web token generated
+2020-12-07 12:22:58,817 Authentication initiated
+2020-12-07 12:22:58,818 Json web token generated
+2020-12-07 12:25:04,631 Authentication initiated
+2020-12-07 12:25:04,632 Json web token generated
+2020-12-07 12:27:25,548 Authentication initiated
+2020-12-07 12:27:25,549 Json web token generated
+2020-12-07 12:28:57,896 Authentication initiated
+2020-12-07 12:28:57,897 Json web token generated
+2020-12-07 12:29:32,877 Authentication initiated
+2020-12-07 12:29:32,878 Json web token generated
+2020-12-07 12:31:27,824 Authentication initiated
+2020-12-07 12:31:27,825 Json web token generated
+2020-12-07 12:34:36,054 Authentication initiated
+2020-12-07 12:34:36,055 Json web token generated
+2020-12-07 12:36:31,807 Authentication initiated
+2020-12-07 12:36:31,808 Json web token generated
+2020-12-07 12:37:08,322 Authentication initiated
+2020-12-07 12:37:08,323 Json web token generated
+2020-12-07 13:02:44,131 Application started. Press Ctrl+C to shut down.
+2020-12-07 13:02:44,139 Hosting environment: Development
+2020-12-07 13:02:44,141 Content root path: D:\TruYum\AuthServices
+2020-12-07 13:02:59,285 Authentication initiated
+2020-12-07 13:02:59,748 Json web token generated
+2020-12-07 13:04:29,488 Authentication initiated
+2020-12-07 13:04:29,489 Json web token generated
+2020-12-07 13:05:29,996 Authentication initiated
+2020-12-07 13:05:29,996 Json web token generated
+2020-12-07 14:14:47,360 Application started. Press Ctrl+C to shut down.
+2020-12-07 14:14:47,379 Hosting environment: Development
+2020-12-07 14:14:47,402 Content root path: D:\TruYum\AuthServices
+2020-12-07 14:16:01,021 Authentication initiated
+2020-12-07 14:16:01,410 Json web token generated
+2020-12-07 14:18:51,188 Authentication initiated
+2020-12-07 14:18:51,189 Json web token generated
+2020-12-07 14:20:28,004 Authentication initiated
+2020-12-07 14:20:28,005 Json web token generated
+2020-12-07 14:24:04,593 Authentication initiated
+2020-12-07 14:24:04,594 Json web token generated
+2020-12-07 14:28:18,045 Authentication initiated
+2020-12-07 14:28:18,046 Json web token generated
+2020-12-07 14:31:28,017 Application started. Press Ctrl+C to shut down.
+2020-12-07 14:31:28,041 Hosting environment: Development
+2020-12-07 14:31:28,045 Content root path: D:\TruYum\AuthServices
+2020-12-07 14:32:09,748 Authentication initiated
+2020-12-07 14:32:10,149 Json web token generated
+2020-12-07 14:34:34,061 Authentication initiated
+2020-12-07 14:34:34,061 Json web token generated
+2020-12-07 14:35:39,452 Authentication initiated
+2020-12-07 14:35:39,453 Json web token generated
+2020-12-07 14:36:29,640 Authentication initiated
+2020-12-07 14:36:29,640 Json web token generated
+2020-12-07 14:38:39,764 Authentication initiated
+2020-12-07 14:38:39,765 Json web token generated
+2020-12-07 14:43:16,073 Application started. Press Ctrl+C to shut down.
+2020-12-07 14:43:16,082 Hosting environment: Development
+2020-12-07 14:43:16,085 Content root path: D:\TruYum\AuthServices
+2020-12-07 14:43:49,665 Authentication initiated
+2020-12-07 14:43:49,869 Json web token generated
+2020-12-07 14:44:21,977 Authentication initiated
+2020-12-07 14:44:21,977 Json web token generated
+2020-12-07 14:46:10,117 Authentication initiated
+2020-12-07 14:46:10,117 Json web token generated
+2020-12-07 14:50:36,910 Authentication initiated
+2020-12-07 14:50:36,910 Json web token generated
+2020-12-07 15:10:16,641 Application started. Press Ctrl+C to shut down.
+2020-12-07 15:10:16,653 Hosting environment: Development
+2020-12-07 15:10:16,656 Content root path: D:\TruYum\AuthServices
+2020-12-07 15:10:55,483 Authentication initiated
+2020-12-07 15:10:55,902 Json web token generated
+2020-12-07 15:18:27,544 Authentication initiated
+2020-12-07 15:18:27,545 Json web token generated
+2020-12-07 15:19:17,045 Authentication initiated
+2020-12-07 15:19:17,045 Json web token generated
+2020-12-07 15:26:52,971 Authentication initiated
+2020-12-07 15:26:52,971 Json web token generated
+2020-12-07 15:29:59,089 Authentication initiated
+2020-12-07 15:29:59,090 Json web token generated
+2020-12-07 15:30:40,120 Authentication initiated
+2020-12-07 15:30:40,122 Json web token generated
+2020-12-07 15:30:57,099 Authentication initiated
+2020-12-07 15:30:57,099 User Not Found
+2020-12-07 15:31:00,601 Authentication initiated
+2020-12-07 15:31:00,601 Json web token generated
+2020-12-07 15:31:20,812 Authentication initiated
+2020-12-07 15:31:20,813 Json web token generated
+2020-12-07 15:36:29,873 Authentication initiated
+2020-12-07 15:36:29,874 Json web token generated
+2020-12-07 15:55:12,259 Application started. Press Ctrl+C to shut down.
+2020-12-07 15:55:12,270 Hosting environment: Development
+2020-12-07 15:55:12,272 Content root path: D:\TruYum\AuthServices
+2020-12-07 16:00:02,556 Authentication initiated
+2020-12-07 16:00:02,764 Json web token generated
+2020-12-07 16:02:02,710 Authentication initiated
+2020-12-07 16:02:02,711 Json web token generated
+2020-12-07 16:03:16,583 Authentication initiated
+2020-12-07 16:03:16,583 Json web token generated
+2020-12-07 16:08:19,408 Application started. Press Ctrl+C to shut down.
+2020-12-07 16:08:19,419 Hosting environment: Development
+2020-12-07 16:08:19,421 Content root path: D:\TruYum\AuthServices
+2020-12-07 16:08:29,899 Authentication initiated
+2020-12-07 16:08:30,100 Json web token generated
+2020-12-07 16:09:16,770 Authentication initiated
+2020-12-07 16:09:16,771 Json web token generated
+2020-12-07 16:27:26,831 Application started. Press Ctrl+C to shut down.
+2020-12-07 16:27:26,844 Hosting environment: Development
+2020-12-07 16:27:26,847 Content root path: D:\TruYum\AuthServices
+2020-12-07 16:28:17,402 Authentication initiated
+2020-12-07 16:28:17,784 Json web token generated
+2020-12-07 16:29:00,970 Authentication initiated
+2020-12-07 16:29:00,971 Json web token generated
+2020-12-07 16:29:41,417 Authentication initiated
+2020-12-07 16:29:41,417 Json web token generated
+2020-12-07 16:33:23,070 Authentication initiated
+2020-12-07 16:33:23,072 Json web token generated
+2020-12-07 16:35:11,730 Authentication initiated
+2020-12-07 16:35:11,731 Json web token generated
+2020-12-07 16:35:40,627 Authentication initiated
+2020-12-07 16:35:40,628 Json web token generated
+2020-12-07 17:43:38,258 Application started. Press Ctrl+C to shut down.
+2020-12-07 17:43:38,274 Hosting environment: Development
+2020-12-07 17:43:38,277 Content root path: D:\TruYum\AuthServices
+2020-12-07 17:44:05,959 Authentication initiated
+2020-12-07 17:44:06,355 Json web token generated
+2020-12-07 17:46:02,653 Authentication initiated
+2020-12-07 17:46:02,654 Json web token generated
+2020-12-07 17:49:38,057 Authentication initiated
+2020-12-07 17:49:38,058 Json web token generated
+2020-12-07 17:50:24,279 Authentication initiated
+2020-12-07 17:50:24,279 Json web token generated
+2020-12-07 17:52:09,816 Authentication initiated
+2020-12-07 17:52:09,817 Json web token generated
+2020-12-07 17:53:01,131 Authentication initiated
+2020-12-07 17:53:01,132 Json web token generated
+2020-12-07 17:54:21,258 Authentication initiated
+2020-12-07 17:54:21,259 Json web token generated
+2020-12-07 19:34:55,681 Application started. Press Ctrl+C to shut down.
+2020-12-07 19:34:55,692 Hosting environment: Development
+2020-12-07 19:34:55,694 Content root path: D:\TruYum\AuthServices
+2020-12-07 19:38:33,285 Authentication initiated
+2020-12-07 19:38:33,664 Json web token generated
+2020-12-07 19:39:07,885 Authentication initiated
+2020-12-07 19:39:07,885 Json web token generated
+2020-12-07 19:41:21,069 Authentication initiated
+2020-12-07 19:41:21,069 Json web token generated
+2020-12-07 19:42:31,682 Authentication initiated
+2020-12-07 19:42:31,683 Json web token generated
+2020-12-07 19:43:04,538 Authentication initiated
+2020-12-07 19:43:04,539 Json web token generated
+2020-12-07 19:45:17,734 Authentication initiated
+2020-12-07 19:45:17,734 Json web token generated
+2020-12-07 19:48:10,404 Authentication initiated
+2020-12-07 19:48:10,404 Json web token generated
