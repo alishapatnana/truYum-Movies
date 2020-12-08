@@ -59,12 +59,12 @@
                     @Html.DisplayFor(modelItem => item.HasTeaser)
                 </td>
                 <td>
-                    <a class="btn btn-danger" href="@Url.Action("DeleteItem","Cart",new { id = item.MovieId,id2=item.MovieId })">Remove Fron the cart</a>
+                    <a class="btn btn-danger" href="@Url.Action("DeleteItem","Cart",new { id = item.MovieId,id2=item.MovieId })">Remove</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
-<a class="btn btn-dark" asp-action="Index" asp-controller="Movies">Add More Items To your cart</a>
-<a class="btn btn-dark" asp-action="PlaceOrder" asp-controller="cart">Place your Order</a>
+<a class="btn btn-dark" asp-action="Index" asp-controller="Movies">Add More Items</a>
+<a class="btn btn-dark" asp-action="PlaceOrder" asp-controller="cart">Place Order</a>
 

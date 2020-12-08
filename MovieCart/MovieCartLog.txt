@@ -181,3 +181,10 @@
 2020-12-07 19:48:27,292 Http Delete Request Initiated for the user Id 1
 2020-12-07 19:48:27,303 Http get request initiated for all cart Items
 2020-12-07 19:48:27,303 All the MenuItems were displayed
+2020-12-08 09:27:23,631 Application started. Press Ctrl+C to shut down.
+2020-12-08 09:27:23,645 Hosting environment: Development
+2020-12-08 09:27:23,647 Content root path: D:\TruYum\MovieCart
+2020-12-08 09:28:14,583 Http post Request Initiated for the user Id 2
+2020-12-08 09:28:14,583 Obtained Valid Model
+2020-12-08 09:28:16,244 Http get request initiated for all cart Items
+2020-12-08 09:28:16,245 All the MenuItems were displayed
